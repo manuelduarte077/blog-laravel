@@ -60,11 +60,8 @@
                     </svg>
                 </button>
 
-
                 <!-- Profile dropdown -->
-
                 @auth
-
                     <div class="ml-3 relative" x-data="{ open: false }">
                         <div>
 
@@ -108,9 +105,7 @@
                            class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">Register</a>
                     </div>
 
-
                 @endauth
-
 
             </div>
 
