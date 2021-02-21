@@ -11,7 +11,8 @@ class Image extends Model
 
     // Relacion porlimorfica
 
-    public function imageable(){
+    public function imageable()
+    {
         return -$this->morphTo();
     }
 }

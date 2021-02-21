@@ -24,7 +24,7 @@ class PostSeeder extends Seeder
             ]);
             $post->tags()->attach([
                 rand(1, 4),
-                rand(5,10)
+                rand(5, 10)
             ]);
         }
 
