@@ -25,6 +25,7 @@
 
            @livewire('navigation')
 
+
             <!-- Page Content -->
             <main>
                 {{ $slot }}
