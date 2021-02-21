@@ -1,3 +1,8 @@
+<x-app-layout>
+
+</x-app-layout>
+
+{{--
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
     <head>
@@ -15,9 +20,9 @@
         </style>
 
         <style>
-            body {
+          /*  body {
                 font-family: 'Nunito';
-            }
+            }*/
         </style>
     </head>
     <body class="antialiased">
@@ -130,3 +135,4 @@
         </div>
     </body>
 </html>
+--}}

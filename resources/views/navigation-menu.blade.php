@@ -118,6 +118,7 @@
                                     {{ __('Log Out') }}
                                 </x-jet-dropdown-link>
                             </form>
+
                         </x-slot>
                     </x-jet-dropdown>
                 </div>
